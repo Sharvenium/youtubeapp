@@ -11,7 +11,7 @@ import Foundation
 struct Video {
     var video = ""
     var title = ""
-    var description = ""
+    var description = "d"
     var thumbnail = ""
     var published = ""
     
