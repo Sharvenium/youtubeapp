@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B5E8B3F324C04C3E00B3318B /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E8B3F224C04C3E00B3318B /* Video.swift */; };
+		B5E8B3F524C04C9200B3318B /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E8B3F424C04C9200B3318B /* Model.swift */; };
+		B5E8B3F924C054A200B3318B /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E8B3F824C054A200B3318B /* Constants.swift */; };
 		B5EE70D7249EFD0300C31F16 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5EE70D6249EFD0300C31F16 /* AppDelegate.swift */; };
 		B5EE70D9249EFD0300C31F16 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5EE70D8249EFD0300C31F16 /* SceneDelegate.swift */; };
 		B5EE70DB249EFD0300C31F16 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5EE70DA249EFD0300C31F16 /* ViewController.swift */; };
@@ -16,6 +19,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B5E8B3F224C04C3E00B3318B /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
+		B5E8B3F424C04C9200B3318B /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		B5E8B3F824C054A200B3318B /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		B5EE70D3249EFD0300C31F16 /* minimalistyoutube.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = minimalistyoutube.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5EE70D6249EFD0300C31F16 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B5EE70D8249EFD0300C31F16 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +69,9 @@
 				B5EE70DF249EFD0700C31F16 /* Assets.xcassets */,
 				B5EE70E1249EFD0700C31F16 /* LaunchScreen.storyboard */,
 				B5EE70E4249EFD0700C31F16 /* Info.plist */,
+				B5E8B3F224C04C3E00B3318B /* Video.swift */,
+				B5E8B3F424C04C9200B3318B /* Model.swift */,
+				B5E8B3F824C054A200B3318B /* Constants.swift */,
 			);
 			path = minimalistyoutube;
 			sourceTree = "<group>";
@@ -141,6 +150,9 @@
 				B5EE70DB249EFD0300C31F16 /* ViewController.swift in Sources */,
 				B5EE70D7249EFD0300C31F16 /* AppDelegate.swift in Sources */,
 				B5EE70D9249EFD0300C31F16 /* SceneDelegate.swift in Sources */,
+				B5E8B3F524C04C9200B3318B /* Model.swift in Sources */,
+				B5E8B3F324C04C3E00B3318B /* Video.swift in Sources */,
+				B5E8B3F924C054A200B3318B /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
